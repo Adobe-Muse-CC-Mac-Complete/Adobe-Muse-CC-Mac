@@ -1,6 +1,6 @@
 # Adobe Muse CC Mac
 
-<img src="https://icons.iconarchive.com/icons/nokari/adobe-cc/128/Adobe-Muse-icon.png" width="200" alt="Application icon" align="left"/>
+<img src="https://www.hoffmanartdesign.com/wordpress/wp-content/uploads/2013/11/Muse.jpg" width="200" alt="Application icon" align="left"/>
 
 <div>
 <h3>Adobe Muse CC</h3>
